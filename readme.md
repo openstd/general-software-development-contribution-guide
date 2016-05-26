@@ -18,3 +18,8 @@ If it is not, you can find the guide in the **README.md** file in the project's 
 ## Else the general contribution principles are applied
 
 ## Commit Messages
+
+
+## Issues
+
+## Suggestions
